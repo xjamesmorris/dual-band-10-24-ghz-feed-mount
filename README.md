@@ -5,8 +5,9 @@
 </p>
 
 <p>
-Photo of the mount with a feed horn.
-
+Photo of the mount with a feed horn:
+</p>
+<p>
 <img src="./10-24-bracket-photo.png" width="50%" alt="Photo of the mount with a horn."/>
 </p>
 
