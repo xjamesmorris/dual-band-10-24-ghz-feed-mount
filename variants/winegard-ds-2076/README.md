@@ -2,14 +2,13 @@
 
 <p>
 <img src="10-24-bracket-ds2076-lower-v1.png" alt="Lower component" width="60%" align="top" />
-  <br />Lower component.
+  <br /><i>Lower part</i>
 </p>
 <br />
 
 <p>
 <img src="10-24-bracket-ds2076-upper-v1.png" alt="Upper component" width="60%" />
-<br>
-  Upper Component.
+<br /><i>Upper part</i>
 </p>
 
 <p>
